@@ -1,21 +1,17 @@
-### I have no idea what i'm doing
+<p align="left">
+  <sub>
+    Hello, my name is Gabriel<br>
+    Currently studying Computer Science on UNIFOR - Progress: 2nd semester<br>
+    I currently use Java<br>
+    Looking foward to make more
+    <br><br><br>
+  </sub>
+</p>
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-</div>
-
-
-### I program in java
-
-
-<div>
-  <sub>I also hate markup language, could you tell? </sub>
-</div>
-
-<div>
-  <img src="https://c.tenor.com/a1V0fBkeMPkAAAAC/anime-hitori-bocchi-no-marumaru-seikatsu.gif"/>
-</div>
-
+<p align="right">
+    <sub>this is me coding</sub><br>
+    <img src="https://c.tenor.com/a1V0fBkeMPkAAAAC/anime-hitori-bocchi-no-marumaru-seikatsu.gif" width="320" height="180">
+</p>
 <!--
 **H-Gabriel/H-Gabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
