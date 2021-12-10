@@ -1,4 +1,8 @@
-### Hi there 👋
+### I have no idea what i'm doing
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+</div>
 
 <!--
 **H-Gabriel/H-Gabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
