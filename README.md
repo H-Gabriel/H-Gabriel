@@ -4,6 +4,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
 
+
+### I program in java
+
+
+<div>
+  <sub>I also hate markup language, could you tell? </sub>
+</div>
+
+<div>
+  <img src="https://c.tenor.com/a1V0fBkeMPkAAAAC/anime-hitori-bocchi-no-marumaru-seikatsu.gif"/>
+</div>
+
 <!--
 **H-Gabriel/H-Gabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
