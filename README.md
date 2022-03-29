@@ -1,7 +1,7 @@
 <p align="left">
   <sub>
     Hello, my name is Gabriel<br>
-    Currently studying Computer Science - Progress: 2nd semester<br>
+    Currently studying Computer Science - Progress: 3rd semester<br>
     I currently use Java<br>
     <br><br><br>
   </sub>
