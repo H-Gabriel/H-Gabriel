@@ -7,10 +7,6 @@
   </sub>
 </p>
 
-<p align="right">
-    <sub>this is me coding</sub><br>
-    <img src="https://c.tenor.com/a1V0fBkeMPkAAAAC/anime-hitori-bocchi-no-marumaru-seikatsu.gif" width="320" height="180">
-</p>
 <!--
 **H-Gabriel/H-Gabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
